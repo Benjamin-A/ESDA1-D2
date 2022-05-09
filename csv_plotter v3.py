@@ -193,7 +193,7 @@ bodeDiagram(bodefiles, dataLabel)
 
 
 
-#files = ["D2 spektrum Peak hold continuous 2 traces.csv"]
+files = ["D2 spektrum Peak hold continuous 2 traces.csv"]
 
 
 
@@ -201,4 +201,4 @@ files = ["D2 spektrum sample 2 traces copy.csv"]
 #dataLabel = ["Out", "In"]
 dataLabel = ["$v_2$", "$V_0$"]
 
-#spektrumDiagram(files,dataLabel)
+# spektrumDiagram(files,dataLabel)
